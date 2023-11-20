@@ -1,6 +1,6 @@
 #### Rock, Paper, Scissors
 
-#### A basic JavaScript console project for The Odin Project Foundation Course
+#### A basic JavaScript console project for The Odin Project Foundations Course
 
 ### Learning Objective
 
