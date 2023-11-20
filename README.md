@@ -8,3 +8,5 @@
 - Using conditional statements
 - Using loops
 - Creating variables and functions
+
+### To be revisited later to add gui
