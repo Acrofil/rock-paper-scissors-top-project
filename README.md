@@ -9,4 +9,5 @@
 - Using loops
 - Creating variables and functions
 
-### To be revisited later to add gui
+### Adding simple ui with buttons
+Adding simple user interface with buttons. Practise creating elements and updating those elements e.g. status and displaying results from the DOM.
